@@ -2,7 +2,7 @@
 
 Hello everyone! 👋🏻
 
-I am **Mohammad-Javad Ahmadi** ([LinkedIn](https://www.linkedin.com/in/mjahmadii/)) and I am thrilled to be back as the **Teaching Assistant** for the **AI and Machine Learning** courses at **K.N. Toosi University of Technology**! 🎉 I’ll be working alongside the wonderful **Dr. Aliyari** ([Profile](https://wp.kntu.ac.ir/aliyari/)) and an inspiring team of students and mentors throughout this course. 🚀
+I am **Mohammad Javad Ahmadi** ([LinkedIn](https://www.linkedin.com/in/mjahmadii/)) and I am thrilled to be back as the **Teaching Assistant** for the **AI and Machine Learning** courses at **K.N. Toosi University of Technology**! 🎉 I’ll be working alongside the wonderful **Dr. Aliyari** ([Profile](https://wp.kntu.ac.ir/aliyari/)) and an inspiring team of students and mentors throughout this course. 🚀
 
 ## 🌟 Course Overview
 This course isn’t just about theory – we're here to **sharpen your practical skills** in AI and Machine Learning! 💻 We’ll dive into a range of topics and enhance your **coding abilities** and **project development**. By the end of the course, you’ll be ready to tackle real-world AI challenges! 🤖
