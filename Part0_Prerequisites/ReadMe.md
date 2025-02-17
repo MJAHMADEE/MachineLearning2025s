@@ -1,4 +1,4 @@
-# 📚 Welcome to AI & Machine Learning Course by Mohammad-Javad Ahmadi 👨‍🏫
+# 📚 Welcome to AI & Machine Learning Course 👨‍🏫
 
 Hello everyone! 👋🏻
 
